@@ -1,5 +1,5 @@
 # REMNIA-Lore-translators
-title. (download and run on your machine, or using an online python interpretr)
+title. (download and run on your machine, or using an online python interpreter, such as https://www.online-python.com/)
 
 This is the readme file for the translators. These serve to convert English words into fictional languages
 
